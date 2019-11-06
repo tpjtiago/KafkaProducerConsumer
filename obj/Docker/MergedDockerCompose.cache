@@ -1,0 +1,7 @@
+services:
+  projeto:
+    build:
+      context: C:\Projeto
+      dockerfile: Dockerfile
+    image: projeto
+version: '3.4'
