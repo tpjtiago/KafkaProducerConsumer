@@ -30,7 +30,7 @@ namespace consumer
                     count++;
                     ProducerCreateConfig();
                     CreateProducer();
-                    SendMessage("TestCassiano", "This is a test42 " + count.ToString());
+                    SendMessage("TestTiago", "Esse é o teste42 " + count.ToString());
                 }
                 if (opcao == "2")
                 {
@@ -71,7 +71,7 @@ namespace consumer
             Console.WriteLine("Capturando a configuração do BootstrapServers -- Producer");
             producerConfig = new ProducerConfig
             {
-                BootstrapServers = "10.97.120.173:9092"
+                BootstrapServers = "localhost:9092"
             };
             Console.WriteLine("");
         }
@@ -81,7 +81,7 @@ namespace consumer
             Console.WriteLine("Capturando a configuração do BootstrapServers -- Consumer");
             consumerConfig = new ConsumerConfig
             {
-                BootstrapServers = "10.97.120.173:9092",
+                BootstrapServers = "localhost:9092",
                 GroupId = "test-group",
                 AutoOffsetReset = AutoOffsetReset.Earliest
             };
@@ -99,7 +99,7 @@ namespace consumer
 
             using (var consumer = cb.Build())
             {
-                consumer.Subscribe("TestCassiano");
+                consumer.Subscribe("Test Tiago");
 
                 try
                 {

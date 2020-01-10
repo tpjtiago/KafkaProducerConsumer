@@ -28,3 +28,33 @@ C:\Projeto\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\zlib.dll
 C:\Projeto\obj\Debug\netcoreapp3.0\Projeto.csproj.CopyComplete
 C:\Projeto\obj\Debug\netcoreapp3.0\Projeto.dll
 C:\Projeto\obj\Debug\netcoreapp3.0\Projeto.pdb
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\Projeto.exe
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\Projeto.deps.json
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\Projeto.runtimeconfig.json
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\Projeto.runtimeconfig.dev.json
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\Projeto.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\Projeto.pdb
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\Confluent.Kafka.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\debian9-librdkafka.so
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\libzstd.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\msvcp120.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\msvcr120.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\zlib.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\libzstd.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\msvcp120.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\msvcr120.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\zlib.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\obj\Debug\netcoreapp3.0\Projeto.csprojAssemblyReference.cache
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\obj\Debug\netcoreapp3.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\obj\Debug\netcoreapp3.0\Projeto.AssemblyInfo.cs
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\obj\Debug\netcoreapp3.0\Projeto.csproj.CopyComplete
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\obj\Debug\netcoreapp3.0\Projeto.dll
+C:\Users\fs1203\Documents\Meus Arquivos Recebidos\Projeto\KafkaProducerConsumerTest\obj\Debug\netcoreapp3.0\Projeto.pdb

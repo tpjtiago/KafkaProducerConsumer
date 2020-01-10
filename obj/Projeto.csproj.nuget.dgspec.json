@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projeto\\Projeto.csproj": {}
+    "C:\\Users\\fs1203\\Documents\\Meus Arquivos Recebidos\\Projeto\\KafkaProducerConsumerTest\\Projeto.csproj": {}
   },
   "projects": {
-    "C:\\Projeto\\Projeto.csproj": {
+    "C:\\Users\\fs1203\\Documents\\Meus Arquivos Recebidos\\Projeto\\KafkaProducerConsumerTest\\Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeto\\Projeto.csproj",
+        "projectUniqueName": "C:\\Users\\fs1203\\Documents\\Meus Arquivos Recebidos\\Projeto\\KafkaProducerConsumerTest\\Projeto.csproj",
         "projectName": "Projeto",
-        "projectPath": "C:\\Projeto\\Projeto.csproj",
-        "packagesPath": "C:\\Users\\fs1277\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeto\\obj\\",
+        "projectPath": "C:\\Users\\fs1203\\Documents\\Meus Arquivos Recebidos\\Projeto\\KafkaProducerConsumerTest\\Projeto.csproj",
+        "packagesPath": "C:\\Users\\fs1203\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fs1203\\Documents\\Meus Arquivos Recebidos\\Projeto\\KafkaProducerConsumerTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\fs1277\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\fs1203\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
